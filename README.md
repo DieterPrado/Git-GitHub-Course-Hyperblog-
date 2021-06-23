@@ -6,5 +6,6 @@ En este curso veremos de muchas cosas:
 - Todos los comandos de git
 - Flujo de trabajo de github
 - El amor por las buenas practicas
+- Creado por el increible dieters
 
 La funcion principal de este repositorio es para servir como evidencia de la toma de los cursos.
