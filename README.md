@@ -7,5 +7,5 @@ En este curso veremos de muchas cosas:
 - Flujo de trabajo de github
 - El amor por las buenas practicas
 - Creado por el increible dieters
-
+- incluye ejemplos en windows linux y mac
 La funcion principal de este repositorio es para servir como evidencia de la toma de los cursos.
