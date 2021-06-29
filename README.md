@@ -41,7 +41,8 @@ Then, linking the local repository with GitHub repository with an URL and the ne
 - How to collaborate with other authors
 - How to recover previous versions of files
 
-###Commands 
+------------
+### Commands 
 
 
 |  Command | Function  |
